@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lay865
+- 👋 Hi, I’m @Lay
 - 👀 I’m interested in Web Development Field 
 - 🌱 I’m currently learning Web Development 
 - 😄 Pronouns: He/Him
